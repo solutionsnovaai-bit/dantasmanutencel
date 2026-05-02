@@ -524,7 +524,7 @@ export default function App() {
                     rel="noreferrer"
                     className="flex items-center justify-center gap-3 w-full py-5 bg-royal-blue text-black rounded-2xl font-display font-black tracking-widest transition-all hover:glow-cyan active:scale-95"
                   >
-                    <span>QUERO APRENDER AGORA!</span>
+                    <span>QUERO APRENDER!</span>
                     <ChevronRight size={20} />
                   </a>
                   <p className="text-center mt-4 text-[10px] font-bold text-neutral-600 uppercase tracking-[0.2em]">
